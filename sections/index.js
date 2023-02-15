@@ -1,19 +1,17 @@
 import Hero from './Hero';
 import About from './About';
-import Explore from './Explore';
-import GetStarted from './GetStarted';
-import WhatsNew from './WhatsNew';
-import World from './World';
-import Insights from './Insights';
+import AboutPanaverse from './AboutPanaverse';
+import AboutCourse from './AboutCourse';
+import Map from './Map';
+import CoreCourse from './CoreCourse';
 import Feedback from './Feedback';
 
 export {
   Hero,
   About,
-  Explore,
-  GetStarted,
-  WhatsNew,
-  World,
-  Insights,
+  AboutPanaverse,
+  AboutCourse,
+  Map,
+  CoreCourse,
   Feedback,
 };

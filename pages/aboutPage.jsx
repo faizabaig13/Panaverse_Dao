@@ -11,7 +11,7 @@ import NavBar from '../components/Navbar';
 const About = () => (
   <>
 
- <div className="bg-green-100 container h-auto w-full max-w-full">
+ <div className="bg-green-100 container h-screen w-full max-w-full">
  <NavBar/>
   <section className={`${styles.paddings} relative`}>
     <div className="gradient-02 z-0" />
